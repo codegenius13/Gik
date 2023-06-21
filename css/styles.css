@@ -51,7 +51,7 @@ html {
     height: 2px;
     background-color: black;
     margin-right: 20px;
-    margin-top: 20px;
+    margin-top: 3px;
 }
 /** SCROLL TOP BTN **/
 #myBtn {
@@ -474,9 +474,6 @@ header.sticky {
     justify-content: center;
     align-items: center;
 }
-.awd-title .span span {
-    margin-top: -1px;
-}
 .awd-dis {
     margin-top: 50px;
 }
@@ -511,9 +508,6 @@ header.sticky {
     justify-content: center;
     align-items: center;
     text-align: center;
-}
-.til .span span {
-    margin-top: -1px;
 }
 #container {
     margin: 20px auto;
@@ -552,9 +546,6 @@ header.sticky {
     justify-content: center;
     align-items: center;
     text-align: center;
-}
-.blg-title .span span {
-    margin-top: -1px;
 }
 .blg figure {
     display: grid;
@@ -672,9 +663,10 @@ header.sticky {
 
 /** FOOTER SECTION **/
 .panel-footer {
-    margin-top: 150px;
+    margin-top: 50px;
     background-color: rgb(247, 243, 241);
     width: 100%;
+    margin-bottom: 30px;
 }
 .ft-content {
     display: flex;
